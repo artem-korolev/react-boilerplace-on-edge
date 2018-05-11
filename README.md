@@ -6,7 +6,7 @@ Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwie
 
 ## Features
 
-* React 16
+* React >= 16.3.2
 * Webpack 4
 * Babel
 * Staging ES Next Features
