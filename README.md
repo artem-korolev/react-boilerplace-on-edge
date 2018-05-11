@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup)
 
-Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)
+Read more about it:
+[React Code Style with ESLint + Babel + Webpack](https://www.robinwieruch.de/react-eslint-webpack-babel/)
+[The Minimal React + Webpack 4 + Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)
 
 ## Features
 
